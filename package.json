@@ -10,7 +10,8 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "@okfe/okex-node": "0.0.50",
-    "meteor-node-stubs": "^0.4.1"
+    "meteor-node-stubs": "^0.4.1",
+    "nodemailer": "^6.2.1"
   },
   "meteor": {
     "mainModule": {
